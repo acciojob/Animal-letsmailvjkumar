@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+#animals-photos {
+	text-align: center;
+}
+#photo-heading {
+			text-align:center;
+            font-size: 24px;
+            margin-bottom: 20px;
+}
+.animal-photo {
+    display: inline-block;
+    margin: 10px;
+}
